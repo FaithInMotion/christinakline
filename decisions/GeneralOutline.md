@@ -3,7 +3,8 @@
 ## Version 1
 - [ ] 1 User (me)
 - [ ] Posts (CRUD)
-- [ ] Maintain existing URLs (for wanted pages) - Looks like just focus on Homeletics
+  - [ ] Bring over existing stories
+  - [ ] Maintain existing URLs (for wanted pages) - Looks like just focus on Homeletics
 - [ ] Bootstrap Styling
 - [ ] Tracking / SEO
 
@@ -16,6 +17,7 @@
 ## Version 4
 - [ ] "Book Covers" (images)
 - [ ] Default image if not
+- [ ] Galleries for artwork
 
 ## Version 5
 - [ ] Library style landing page
